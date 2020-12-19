@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: sssd.testlib
+Version: 0.1.post14
+Summary: System Services Security Daemon python test suite
+Home-page: https://github.com/SSSD/sssd
+Author: SSSD QE Team
+Author-email: UNKNOWN
+License: GNU GPL v3.0
+Description: sssd_qe_tests
+        =========
+        
+        `sssd.testlib`_ is a library containing shared functions to automtate `System Services Security Daemon __` using pytest framework. 
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3,6
